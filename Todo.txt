@@ -1,0 +1,6 @@
+﻿1. gen model
+2. create controller
+3. set up routes
+4. design views
+5. implement authentication
+6. test application
